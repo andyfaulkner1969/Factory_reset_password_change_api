@@ -10,7 +10,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 ###########################################################################################
 
 host = "10.20.20.11"
-passwd = "Danni1993!"
+passwd = "YOURPASSWORD"
 
 payload = {
 	"username" : "admin",
